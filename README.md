@@ -18,8 +18,8 @@
 <a href="https://twitter.com/@samdshakiloffi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samdshakiloffi1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sa-md-shakil-m-08929b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@sa-md-shakil-m-08929b243" height="30" width="40" /></a>
 <a href="https://fb.com/@shakil.monsi.420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@shakil.monsi.420" height="30" width="40" /></a>
-<a href="https://instagram.com/@sashakilmunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sashakilmunsi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@onlinehero6938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@onlinehero6938" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sashakilmunsi/?igshid=MWlmdDV3bDg1cHpzcA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sashakilmunsi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@onlinehero6938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@onlinehero6938" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
